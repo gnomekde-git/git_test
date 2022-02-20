@@ -42,6 +42,7 @@ int main()
     int* temp;
     int* temp1;
     int* temp2;
+    int* temp3;
 
     outputInt=productSelf(inputInt,4,&outputSize, &outputIntMul);
     if (outputInt!=NULL)
