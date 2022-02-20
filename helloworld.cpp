@@ -52,4 +52,5 @@ int main()
     }
 }
     free(outputInt);
+    return 1;
 }
