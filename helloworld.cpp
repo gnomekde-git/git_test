@@ -39,6 +39,7 @@ int main()
     int outputSize;
     int* outputIntMul;
     int* outputInt;
+    int* temp;
 
     outputInt=productSelf(inputInt,4,&outputSize, &outputIntMul);
     if (outputInt!=NULL)
